@@ -1,1 +1,3 @@
 # codewars
+
+Kata from codewars
