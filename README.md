@@ -1,3 +1,3 @@
-# codewars
+# Python
 
-Kata from codewars
+Various Python exercises
