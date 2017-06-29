@@ -1,3 +1,3 @@
 # Python
 
-Various Python exercises
+Various Python exercises and projects
